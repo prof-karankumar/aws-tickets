@@ -1,4 +1,4 @@
-// File: C:\Users\TM\OneDrive\Desktop\office portal\freedev-atm-updated\freedev.atm\app\total-events\page.tsx
+// File: C:\projects\freedev-atm-updated\freedev.atm\app\total-events\page.tsx
 import * as entry from '../../../../app/total-events/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
